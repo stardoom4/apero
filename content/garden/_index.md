@@ -1,6 +1,6 @@
 ---
 title: Digital Garden 
-description: | A digital Garden 
+description: A digital Garden 
 author: "CE"
 show_post_thumbnail: true
 show_author_byline: true
