@@ -1,7 +1,7 @@
 ---
 title: "Celestial Entity"
 subtitle: "Science enthusiast and a geek."
-# description: ""
+description: "A digital Garden."
 date: 2024-04-02T12:27:33-06:00
 images:
   - "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Depiction_of_king_Rana_Sanga.jpg/250px-Depiction_of_king_Rana_Sanga.jpg"
