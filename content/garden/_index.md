@@ -14,10 +14,7 @@ sidebar:
   title: A Sidebar for Thoughts
   description: |
     This is My digital garden or a wiki.
-    
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
-  author: "CE"
+  author: "Celestial Entity"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: false # show ad container
@@ -26,12 +23,12 @@ sidebar:
 cascade:
   author: "Celestial Entity "
   show_author_byline: true
-  show_post_date: false
+  show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
-    text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_label: View recent notes.
+    text_link_url: /garden/
     show_sidebar_adunit: false # show ad container
 ---
 
