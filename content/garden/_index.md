@@ -1,5 +1,5 @@
 ---
-title: Digital Garden 
+title: "Digital Garden"
 description: ,A digital Garden 
 author: "CE"
 show_post_thumbnail: true
