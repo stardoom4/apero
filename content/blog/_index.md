@@ -13,10 +13,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: A Sidebar for Your Thoughts
   description: |
-    This is a my blog.
-    
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+    This is a my blog. 
   author: "Celestial Entity"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
