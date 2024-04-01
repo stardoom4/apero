@@ -1,6 +1,6 @@
 ---
 title: Digital Garden 
-description: A digital Garden 
+description: ,A digital Garden 
 author: "CE"
 show_post_thumbnail: true
 show_author_byline: true
@@ -10,8 +10,8 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: This is My digital Garden or a Personal Wiki.
-  description: | Notes on many things.
+  title: "This is My digital Garden or a Personal Wiki."
+  description: ,Notes on many topics.
     
     Check out the _index.md file in the /blog folder 
     to edit this content. 
