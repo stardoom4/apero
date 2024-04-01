@@ -4,7 +4,7 @@ excerpt: "An .Rmarkdown post"
 date: 2024-04-01
 author: "CE"
 draft: false
-images:
+images: https://i.imgur.com/AlcII4u.jpeg
 series:
 tags: 
 categories:
