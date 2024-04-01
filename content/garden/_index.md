@@ -2,10 +2,10 @@
 title: Digital Garden 
 description: |
   A digital Garden.
-author: "CE"
+author: "Celestial Entity"
 show_post_thumbnail: true
 show_author_byline: true
-show_post_date: false
+show_post_date: true
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 
@@ -13,7 +13,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: A Sidebar for Thoughts
   description: |
-    This is My digital garden or a wiki.
+    This is My digital garden and a wiki.
   author: "Celestial Entity"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
