@@ -1,9 +1,8 @@
 ---
-title: A Blog That Works
+title: Blog
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  This is a my blog.
+author: "Celestial Entity"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -27,7 +26,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Celestial Entity"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
