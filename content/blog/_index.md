@@ -11,7 +11,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: A Sidebar for my Thoughts
   description: |
     This is a my blog. 
   author: "Celestial Entity"
