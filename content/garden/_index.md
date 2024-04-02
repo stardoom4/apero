@@ -1,34 +1,29 @@
 ---
-title: Digital Garden 
+title: "Digital Garden"
+subtitle: "A collection, minus the blog."
 description: |
   A digital Garden.
-author: "Celestial Entity"
+author: Celestial Entity
 show_post_thumbnail: true
-show_author_byline: true
-show_post_date: true
+thumbnail_left: false # for list-sidebar only
+show_author_byline: false
+show_post_date: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list-sidebar # list, list-sidebar
 
-# for list-sidebar layout
-sidebar: 
-  title: A Sidebar for Thoughts
-  description: |
-    This is My digital garden and a wiki.
-  author: "Celestial Entity"
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  show_sidebar_adunit: false # show ad container
-
-# set up common front matter for all pages inside blog/
+# set up common front matter for all individual pages in series
 cascade:
-  author: "Celestial Entity "
-  show_author_byline: true
-  show_post_date: true
-  show_disqus_comments: false # see disqusShortname in site config
-  # for single-sidebar layout
+  layout: single-series 
   sidebar:
-    text_link_label: View recent notes.
-    text_link_url: /garden/
-    show_sidebar_adunit: false # show ad container
+    title: "Digital Garden"
+    author: Celestial Entity
+    description: |
+      A digital Garden.
+    show_author_byline: true
+    show_post_date: true
+    text_link_label: ""
+    text_link_url: ""
+    show_sidebar_adunit: false # show ad container, first page only
+    text_series_label: "Outline" 
+    text_contents_label: "On this page" 
 ---
-
