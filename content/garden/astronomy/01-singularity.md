@@ -2,6 +2,7 @@
 title: "Singularity"
 weight: 1
 subtitle: "Singularity of a black hole."
+excerpt: "A hypothetical point in the center of [Black-Hole][1] consisting of Infinite Density, Mass, And Gravity. In that point, Gravity is so powerful that even light can't escape."
 date: 2024-04-02
 draft: false
 ---
