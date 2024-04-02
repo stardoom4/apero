@@ -2,7 +2,7 @@
 title: "2nd law of Thermodynamics and Human Behavior"
 subtitle: "Entropy and Human Nature"
 excerpt: "In psychology, the connection between the second law of thermodynamics and human behavior can be understood through various principles and phenomena"
-date: 2021-05-26
+date: 2024-04-02
 author: "Celestial Entity"
 draft: false
 images:
