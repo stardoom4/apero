@@ -6,6 +6,7 @@ date: 2024-04-02
 author: "Celestial Entity"
 draft: false
 images:
+  - featured.jpg
 tags:
   - Thermodynamics
   - Human
